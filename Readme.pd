@@ -1,0 +1,6 @@
+# Student Portfolio
+Basic portfolio website for Agile Lab.
+## How to run
+1. pip install matplotlib
+2. python chart.py
+3. Open index.html
